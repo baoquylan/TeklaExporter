@@ -21,5 +21,5 @@ This project was created for research purposes, so I am not sure I will maintain
 
 ## <a name="license"></a>License
 
-This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+This sample is licensed under the terms of the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html).
 Please see the [LICENSE](LICENSE) file for full details.
